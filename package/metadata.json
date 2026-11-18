@@ -1,1 +1,12 @@
-
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Id": "com.local.plasma.powermenu",
+        "Name": "Power Menu",
+        "Description": "Shut down, restart, suspend, log out, or lock your Plasma session.",
+        "Icon": "system-shutdown",
+        "Category": "Utilities",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
